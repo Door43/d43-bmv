@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmv:home|Door43 (bmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmv|d43-bmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmv/archive/master.zip|d43-bmv.zip]]
+
+**Recent Changes**
+{{changes>ns = bmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmv|Ethnologue data]]
+
